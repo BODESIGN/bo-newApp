@@ -2,7 +2,7 @@
 Crée nouvelle application application  flutter
 
 # do 
->> git clone https://github.com/BODESIGN/bo-newApp.git
+> git clone https://github.com/BODESIGN/bo-newApp.git
 
 # action
 > Modifier les valeur dans configApp.ini
@@ -17,3 +17,6 @@ Crée nouvelle application application  flutter
 # end
 > double click : run  # pour ovrire l'application (dans le .ini) dans vscode 
  
+# TODO
+> créer interface pour saisire (appname + domaine)
+> .py to .exe (just run this)
