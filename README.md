@@ -1,6 +1,9 @@
 # 
 Crée nouvelle application application  flutter
 
+# do 
+>> git clone https://github.com/BODESIGN/bo-newApp.git
+
 # action
 > Modifier les valeur dans configApp.ini
   domainName=bo.studio
